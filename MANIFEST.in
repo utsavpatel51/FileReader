@@ -1,0 +1,2 @@
+graft project1/static
+global-exclude *.pyc
